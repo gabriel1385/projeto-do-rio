@@ -1,9 +1,7 @@
-- Instalar dependencias com o comando:
-```bash
-python -m pip install -r requirements.txt
-```
-- Iniciar aplicacao com:
-```bash
-python3 manage.py migrate
-python3 manage.py runserver
-```
+O Rio do Peixe é um dos principais recursos naturais de muitas regiões do Brasil, desempenhando um papel fundamental no abastecimento de água, irrigação e manutenção da biodiversidade local. No entanto, a crescente poluição, o desmatamento nas margens e a falta de conscientização ambiental têm colocado esse ecossistema em risco. A proteção desse rio é essencial para garantir a sustentabilidade do meio ambiente e o bem-estar das comunidades ao seu redor.
+
+Uma das formas de ajudar o Rio do Peixe é evitar o descarte de lixo e resíduos tóxicos em suas águas e margens. Organizar mutirões de limpeza pode ser uma maneira prática de remover poluentes já acumulados. Além disso, o reflorestamento das áreas próximas às suas margens é fundamental para prevenir erosões, que acabam assoreando o leito do rio.
+
+A educação ambiental também desempenha um papel crucial. Ao promover palestras, campanhas de conscientização e atividades escolares voltadas para a importância da preservação dos recursos hídricos, é possível envolver a população na proteção do Rio do Peixe. Incentivar o uso sustentável da água, a agricultura responsável e práticas ecológicas pode assegurar que futuras gerações possam usufruir desse recurso vital.
+
+Em suma, todos podem contribuir para a preservação do Rio do Peixe. Seja por meio de ações diretas como limpeza e reflorestamento, ou por meio da conscientização e educação ambiental, o cuidado com esse rio é uma responsabilidade coletiva. Se cada um fizer a sua parte, podemos garantir que o Rio do Peixe continue a ser fonte de vida e riqueza natural por muitos anos.
